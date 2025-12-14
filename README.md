@@ -55,3 +55,10 @@ me.say_hi()
 | **🦠 Malware Analysis** | <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Process_Hacker-2980b9?style=flat-square" /> <img src="https://img.shields.io/badge/CyberChef-e74c3c?style=flat-square" /> <img src="https://img.shields.io/badge/Any.Run-FFA500?style=flat-square" /> |
 | **🏗️ Infra & Backend** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
 | **🐧 System & OS** | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Hyprland-004450?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" /> |
+
+### 🚧 Projects
+
+| Project | Classification | Tech Stack |
+| :--- | :--- | :--- |
+| **[🇧🇷 Brazil Threat Landscape](https://github.com/CaioMariins/brazil-threat-landscape)** | Data Analysis / Intel | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" /> |
+| **[🦠 RAT/Sorvepotel Analysis](https://github.com/CaioMariins/VBScript-RAT-Analysis)** | Malware Analysis | <img src="https://img.shields.io/badge/VBScript-Subject?style=flat-square&color=black" /> <img src="https://img.shields.io/badge/Deobfuscation-Red?style=flat-square" /> |
