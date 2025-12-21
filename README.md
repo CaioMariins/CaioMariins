@@ -60,5 +60,6 @@ me.say_hi()
 
 | Project | Classification | Tech Stack |
 | :--- | :--- | :--- |
-| **[🇧🇷 Brazil Threat Landscape](https://github.com/CaioMariins/brazil-threat-landscape)** | Data Analysis / Intel | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" /> |
+| **[☣️ Stealer Analysis](https://github.com/CaioMariins/CadastrarCurriculo-AdvancedInstaller-Stealer)** | Malware Analysis | <img src="https://img.shields.io/badge/Ghidra-black?style=flat-square&logo=ghidra&logoColor=red" /> <img src="https://img.shields.io/badge/Cutter-F37626?style=flat-square" /> <img src="https://img.shields.io/badge/ONNX_/_AI-005CED?style=flat-square&logo=onnx&logoColor=white" /> |
 | **[🦠 RAT/Sorvepotel Analysis](https://github.com/CaioMariins/VBScript-RAT-Analysis)** | Malware Analysis | <img src="https://img.shields.io/badge/VBScript-Subject?style=flat-square&color=black" /> <img src="https://img.shields.io/badge/Deobfuscation-Red?style=flat-square" /> |
+| **[🇧🇷 Brazil Threat Landscape](https://github.com/CaioMariins/brazil-threat-landscape)** | Data Analysis / Intel | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" /> |
